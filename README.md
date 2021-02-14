@@ -1,1 +1,1 @@
-# design-patterns
+# Samples of Design Patterns
